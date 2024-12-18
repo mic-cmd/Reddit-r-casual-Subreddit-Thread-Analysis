@@ -1,4 +1,4 @@
-# Reddit-r-casual-Subreddit-Thread-Analysis
+# r/casual-Subreddit-Thread-Analysis
 ![Reddit Logo](https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/1200x800/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23985506/acastro_STK024_02.jpg)
 
 **Introduction**
