@@ -1,5 +1,5 @@
 # Reddit-r-casual-Subreddit-Thread-Analysis
-
+![Alt text](https://blog.distart.de/reddit-marketing)
 **Introduction**
 
 In the dynamic landscape of social media marketing, understanding the performance of various content categories is pivotal for optimizing strategies and enhancing client engagement. This report presents a comprehensive analysis conducted on the Reddit r/CasualUK subreddit data, aimed at evaluating the performance of different post categories. The insights derived from this analysis will aid in formulating data-driven recommendations to boost client reach and engagement effectively.
