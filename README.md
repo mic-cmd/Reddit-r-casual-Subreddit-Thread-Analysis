@@ -1,4 +1,5 @@
 # r/casual-Subreddit-Thread-Analysis
+
 ![Reddit Logo](https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/1200x800/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23985506/acastro_STK024_02.jpg)
 
 **Introduction**
@@ -28,6 +29,7 @@ Posts were categorized into four main themes: Fitness, Tech, Family, and Beauty.
 
 
 **Findings:**
+
 Categories with higher upvote ratios reflect more positively received posts. Fitness and Tech related posts appear to be more popular among the subreddit users. These two categories receives the highest number of comments and upvotes. Afternoon (11:00 - 18:00) has the highest median number of comments, suggesting the best time to post followed by morning (00:00 - 10:00). There is a positive correlation between the number of comments and the score, suggesting that posts with more comments tend to have higher scores. Although the connection is not strong enough,  but it appears that posts reflecting negative sentiments receive more engagements(comments) from users.
 
 
@@ -36,4 +38,5 @@ Categories with higher upvote ratios reflect more positively received posts. Fit
 The analysis of the r/CasualUK subreddit data has yielded valuable insights into the performance of different post categories, optimal posting times, and the impact of content characteristics on engagement metrics. Key findings indicate that tech and fitness categories outperform others in terms of both score and number of comments, and although small, sentiment play a role in driving engagement.
 
 **Recommendations**
+
 Allocate more resources and create more content within categories that exhibit higher average scores and comment counts, such as: Fitness and Tech. Schedule posts during the time of day that correlates with higher engagement. Encourage discussions and interactions within posts by posing questions, creating polls, or inviting user opinions to boost comments.
